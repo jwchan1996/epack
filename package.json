@@ -1,0 +1,11 @@
+{
+  "name": "epack",
+  "version": "1.0.0",
+  "main": "./lib/compiler.js",
+  "bin": {
+    "epack": "./bin/epack.js"
+  },
+  "repository": "https://github.com/jwchan1996/epack.git",
+  "author": "jwchan <741755613@qq.com>",
+  "license": "MIT"
+}
