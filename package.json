@@ -7,5 +7,11 @@
   },
   "repository": "https://github.com/jwchan1996/epack.git",
   "author": "jwchan <741755613@qq.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/generator": "^7.12.11",
+    "@babel/parser": "^7.12.11",
+    "@babel/traverse": "^7.12.12",
+    "@babel/types": "^7.12.12"
+  }
 }
